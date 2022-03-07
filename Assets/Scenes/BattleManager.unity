@@ -235,7 +235,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d35a1485b89d85c4289bb855c8ad0b36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fighterPrefab: {fileID: 4809674292427873223, guid: 8096a4f461837784f9c286a8cccad4aa, type: 3}
+  fighterPrefab: {fileID: 6234229632428292111, guid: 8096a4f461837784f9c286a8cccad4aa, type: 3}
   teamSize: 3
   fighterNames:
   - Havier
